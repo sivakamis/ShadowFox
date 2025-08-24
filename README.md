@@ -41,3 +41,11 @@ ShadowFox/
     ├── linkedin_task1.png
     ├── linkedin_task2.png
     └── repo_screenshot.png
+## How to Run
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/ShadowFox.git
+pip install -r requirements.txt
+jupyter notebook
+## Author
+Sivakami S – ShadowFox Data Science Intern
