@@ -1,51 +1,27 @@
-# Shadowfox
-This repository contains all internship tasks for ShadowFox Data Science Internship, including documentation, code, and visualizations.
-## Repository Structure
+# ShadowFox Internship Tasks
 
-ShadowFox/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE  (optional)
-├── Task1_Visualization_Docs/
-│   ├── README.md
-│   ├── Visualization_Guide.pdf
-│   ├── visualization_guide.md         
-│   ├── notebooks/
-│   │   ├── Matplotlib_Demos.ipynb
-│   │   └── Seaborn_Demos.ipynb
-│   ├── code/
-│   │   ├── matplotlib_examples.py
-│   │   └── seaborn_examples.py
-│   └── images/                         (all plot screenshots used in the PDF)
-│       ├── line_plot.png
-│       ├── bar_plot.png
-│       └── ...
-├── Task2_AQI_Analysis/
-│   ├── README.md
-│   ├── report/
-│   │   └── AQI_Analysis.pdf
-│   ├── notebooks/
-│   │   └── AQI_Analysis.ipynb
-│   ├── scripts/
-│   │   └── calc_aqi.py                 ( AQI formula code, if separate)
-│   ├── outputs/
-│   │   ├── aqi_trend_city.png
-│   │   └── city_comparison_bar.png
-│   └── data/
-│       ├── README.md                   (source links + license)
-│       ├── raw/                        (if small files; otherwise link only)
-│       └── processed/
-└── proof-of-work/
-    ├── video_links.md                  (LinkedIn links)
-    ├── linkedin_task1.png
-    ├── linkedin_task2.png
-    └── repo_screenshot.png
-## How to Run
-1. Clone this repo:
+This repository contains all my internship tasks completed during the **ShadowFox Data Science Internship**.  
+It includes documentation, code notebooks, visualizations, and proof of work for the assigned tasks.
+
+---
+
+## 📂 Repository Contents
+- **README.md** → Overview of the repository.  
+- **ShadowFox_b_task1.ipynb** → Jupyter notebook for Task 1 (executed in Google Colab).  
+- **shadowfox B-task-1.pdf** → Report/Documentation for Task 1.  
+- **image.png** → Proof of Work / Output verification linkedin screenshot.  
+
+---
+
+## 🛠️ Tools & Technologies Used
+- **Python** (Google Colab)  
+- **Jupyter Notebook**  
+- **Pandas, NumPy** for data manipulation  
+- **Matplotlib, Seaborn** for data visualization  
+
+---
+
+## 🚀 How to Use
+1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ShadowFox.git
-pip install -r requirements.txt
-jupyter notebook
-## Author
-Sivakami S – ShadowFox Data Science Intern
+   [git clone https://github.com/<sivakami>/ShadowFox.git](https://github.com/sivakamis/ShadowFox/tree/main)
